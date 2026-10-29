@@ -18,7 +18,7 @@ signature verifies, not because of the account that sent it or the server that s
 | [chattchain](https://github.com/chattchain) | reference | **the chain**: messages and identity carried on chain | THRUSTDeltaV | member (admin on `.github`) |
 | [web3comm](https://github.com/web3comm) | role | **the environment**: Token · Talk · Transaction | Professor-Codephreak | owner |
 | [blktalk](https://github.com/blktalk) | role | **the systems layer**: Proof · Place · Passage · Person | THRUSTDeltaV | member |
-| [blockwhisper](https://github.com/blockwhisper) | not yet filed | **the continuation home**: this repository | Professor-Codephreak | owner |
+| [blockwhisper](https://github.com/blockwhisper) | role | **the continuation**: this repository | Professor-Codephreak | owner |
 
 Note the spelling **chattchain** (two t's). `github.com/chatchain` is an unrelated, empty user account
 from 2016.
@@ -51,7 +51,9 @@ The estate around it:
 | orgmap | Communication named `blockchain.communication`; `reference` chatter3 + chattchain | `4ed956c` (pushed) |
 | orgmap | `roles` for web3comm and blktalk | `be285eb` (pushed) |
 | orgmap | `descriptions` overrides for chatter3 (GitHub has only a motto) and chattchain (GitHub has none) | `1785943` (pushed) |
-| blockwhisper | org landing and this repository | this push |
+| blockwhisper/.github | public org landing: the five parts, cypherpunk4096, cryptoAGI | `044e3b8` (pushed) |
+| blockwhisper/blockchain.communication | this repository (private) | `c48df2b` (pushed) |
+| orgmap | blockwhisper filed in `comm` with a role and description; 100 organizations, 4,990 repositories | `819e9c5` (pushed) |
 
 ## Waiting — and on whom
 
@@ -71,9 +73,9 @@ the single source.
 
 ## Next
 
-- **File blockwhisper in orgmap.** Add it to `comm` in `domains.json` with its role, then re-fetch
-  (`fetch.py`, `fetch_detail.py`, `fetch_readme.py`) so the new org is in `data.json`, then
-  `generate.py`. It was created 2026-10-29, after the last fetch.
+- **orgmap's next full re-fetch** (`fetch.py`, `fetch_detail.py`, `fetch_readme.py`, then
+  `generate.py`) picks blockwhisper up in the normal way. On 2026-10-29 it was added to the
+  git-ignored `data.json` for this org alone, so `detail.json` and `readme.json` have nothing for it yet.
 - **Nothing has shipped** under any of the five orgs. The forum in chatter3 is research (a fork of
   the XMTP web UI). The first shipped unit should carry the cypherpunk4096 mark from the start:
   client-side signing and verification (CAIP-122 / SIWE, EOA + ERC-1271 + ERC-6492), signatures as
