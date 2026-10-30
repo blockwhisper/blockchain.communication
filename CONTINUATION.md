@@ -52,7 +52,7 @@ The estate around it:
 | orgmap | `roles` for web3comm and blktalk | `be285eb` (pushed) |
 | orgmap | `descriptions` overrides for chatter3 (GitHub has only a motto) and chattchain (GitHub has none) | `1785943` (pushed) |
 | blockwhisper/.github | public org landing: the five parts, cypherpunk4096, cryptoAGI | `044e3b8` (pushed) |
-| blockwhisper/blockchain.communication | this repository (private) | `c48df2b` (pushed) |
+| blockwhisper/blockchain.communication | this repository (created private, made public 2026-10-29 on the operator's instruction) | `c48df2b` (pushed) |
 | orgmap | blockwhisper filed in `comm` with a role and description; 100 organizations, 4,990 repositories | `819e9c5` (pushed) |
 
 ## Waiting — and on whom
@@ -89,7 +89,7 @@ the single source.
   them bare forks, and credit the upstream.
 - **Say what is true.** Every landing ends with a status that says nothing has shipped. Keep it that
   way until something does.
-- **Private until release** for new working repositories (this one is private). Org landings in
+- **Private until release** for new working repositories (this one was, until the operator made it public on 2026-10-29). Org landings in
   `.github` must be public for GitHub to show them.
 - **Commits** are authored as `codephreak <codephreak@dmg.finance>` and end with
   `Co-Authored-By: Professor Codephreak <codephreak@pythai.net>`. Stage explicit files and check
