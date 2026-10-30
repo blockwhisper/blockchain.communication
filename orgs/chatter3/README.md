@@ -88,6 +88,8 @@ yet. When something ships, it will ship here with its source, its licence and a 
 
 | | |
 |---|---|
+| **[blockwhisper](https://github.com/blockwhisper)** | the continuation of `blockchain.communication`: the public [working record](https://github.com/blockwhisper/blockchain.communication) and what comes next |
+| **[chattchain](https://github.com/chattchain)** | the chain — the other half of `blockchain.communication` |
 | **[cypherpunk4096](https://github.com/cypherpunk4096)** | the standard chatter3 is built to |
 | **[cryptoAGI](https://github.com/cryptoAGI)** | the agents that take part |
 | **[AgenticPlace](https://agenticplace.pythai.net)** | the marketplace and agent registry |
