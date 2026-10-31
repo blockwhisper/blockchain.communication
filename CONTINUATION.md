@@ -55,6 +55,7 @@ The estate around it:
 | blockwhisper/blockchain.communication | this repository (created private, made public 2026-10-29 on the operator's instruction) | `c48df2b` (pushed) |
 | orgmap | blockwhisper filed in `comm` with a role and description; 100 organizations, 4,990 repositories | `819e9c5` (pushed) |
 | blockwhisper | official branding (`BRANDING.md`, `logos/`), the five-org logo suite; the full logo set as the org avatar on 2026-10-30 | `317021e`, `.github` `8e354b3` (pushed) |
+| blockwhisper/blockwhisper (**private**, until release) | the code: whisper seal, cryptoSSH (pmVPN keyring v1 client) and a FireFTP-style peer-to-peer file dapp | `4f170d6` (pushed) |
 
 ## Waiting — and on whom
 
@@ -77,6 +78,8 @@ the single source.
 - **orgmap's next full re-fetch** (`fetch.py`, `fetch_detail.py`, `fetch_readme.py`, then
   `generate.py`) picks blockwhisper up in the normal way. On 2026-10-29 it was added to the
   git-ignored `data.json` for this org alone, so `detail.json` and `readme.json` have nothing for it yet.
+- **Code has begun** in the private `blockwhisper/blockwhisper` (2026-10-31): research, not released. pmVPN
+  (poormanvpn/pmVPN) continues as the cryptoSSH server; blockwhisper is its client in the browser.
 - **Nothing has shipped** under any of the five orgs. The forum in chatter3 is research (a fork of
   the XMTP web UI). The first shipped unit should carry the cypherpunk4096 mark from the start:
   client-side signing and verification (CAIP-122 / SIWE, EOA + ERC-1271 + ERC-6492), signatures as
