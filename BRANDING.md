@@ -13,9 +13,9 @@ nodes around it. **A message carried by a chain, readable only by its parties, v
 | File | Use |
 |---|---|
 | [`logos/blockwhisper.svg`](logos/blockwhisper.svg) | **source**: the full logo, mark + wordmark + tagline (1200 × 1200) |
-| [`logos/blockwhisper.png`](logos/blockwhisper.png) | the full logo as a PNG, 1200 × 1200 |
+| [`logos/blockwhisper.png`](logos/blockwhisper.png) | the full logo as a PNG, 1200 × 1200. **The GitHub org avatar** |
 | [`logos/blockwhisper-mark.svg`](logos/blockwhisper-mark.svg) | the mark alone, without wordmark: avatars, favicons, anything under ~200 px |
-| [`logos/blockwhisper-mark.png`](logos/blockwhisper-mark.png) | the mark as a PNG, 1024 × 1024. **The GitHub org avatar** |
+| [`logos/blockwhisper-mark.png`](logos/blockwhisper-mark.png) | the mark as a PNG, 1024 × 1024 |
 
 Use the mark on its own at small sizes, where the wordmark can't be read. Keep the dark field behind
 the mark, and don't recolour, stretch or rearrange it.
