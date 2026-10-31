@@ -67,6 +67,7 @@ ships, it will ship with its source, its licence and a way to verify it.
 |---|---|
 | **[chatter3](https://github.com/chatter3)** · **[chattchain](https://github.com/chattchain)** | the forum and the chain: the reference for `blockchain.communication` |
 | **[blktalk](https://github.com/blktalk)** | the systems layer: zero knowledge, subnets, bridges, identity |
+| **[blockwhisper](https://github.com/blockwhisper)** | the continuation of `blockchain.communication`: the public [working record](https://github.com/blockwhisper/blockchain.communication) and what comes next |
 | **[cypherpunk4096](https://github.com/cypherpunk4096)** | the standard |
 | **[cryptoAGI](https://github.com/cryptoAGI)** | the agents that take part |
 | **[orgmap](https://github.com/Professor-Codephreak/orgmap)** | the map of the whole estate |

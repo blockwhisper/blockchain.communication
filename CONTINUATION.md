@@ -47,7 +47,7 @@ The estate around it:
 | Where | What | Commit |
 |---|---|---|
 | chattchain/.github | landing rewritten as *the chain*; all 19 research forks by question; blockwhisper added | `750cde9`, `0657359` (pushed) |
-| web3comm/.github | landing rewritten as Token · Talk · Transaction; all 60 forks by layer | `c06dfed` (pushed) |
+| web3comm/.github | landing rewritten as Token · Talk · Transaction; all 60 forks by layer; blockwhisper added | `c06dfed`, `68b3473` (pushed) |
 | orgmap | Communication named `blockchain.communication`; `reference` chatter3 + chattchain | `4ed956c` (pushed) |
 | orgmap | `roles` for web3comm and blktalk | `be285eb` (pushed) |
 | orgmap | `descriptions` overrides for chatter3 (GitHub has only a motto) and chattchain (GitHub has none) | `1785943` (pushed) |
@@ -62,7 +62,7 @@ Everything below needs the **THRUSTDeltaV** account, the only owner of chatter3,
 | # | Org | Waiting | How |
 |---|---|---|---|
 | 1 | chatter3 | landing `e78b4f4` + `f22df11` (adds blockwhisper and chattchain) | push from a clone with THRUSTDeltaV's credentials, or copy `orgs/chatter3/README.md` to `chatter3/.github` → `profile/README.md` |
-| 2 | blktalk | landing `8c8abe7` | the same, from `orgs/blktalk/README.md` |
+| 2 | blktalk | landing `8c8abe7` + `06a3981` (adds blockwhisper) | the same, from `orgs/blktalk/README.md` |
 | 3 | chatter3 | gold icon | <https://github.com/organizations/chatter3/settings/profile> → Upload new picture → `icon/chatter3-gold.png`, keep the full crop. GitHub has no API for org avatars |
 | 4 | chattchain | org description | same settings page for chattchain. Text: *blockchain.communication — the chain: messages and identity carried on chain, verified by signature. Research into XMTP, on-chain inboxes, DIDs and encrypted memos.* |
 | 5 | chatter3 | org description (optional) | text: *blockchain.communication — the forum: signature-verified conversation for people and agents* |
