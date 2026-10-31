@@ -54,6 +54,7 @@ The estate around it:
 | blockwhisper/.github | public org landing: the five parts, cypherpunk4096, cryptoAGI | `044e3b8` (pushed) |
 | blockwhisper/blockchain.communication | this repository (created private, made public 2026-10-29 on the operator's instruction) | `c48df2b` (pushed) |
 | orgmap | blockwhisper filed in `comm` with a role and description; 100 organizations, 4,990 repositories | `819e9c5` (pushed) |
+| blockwhisper | official branding (`BRANDING.md`, `logos/`), the five-org logo suite; the mark set as the org avatar on 2026-10-30 | `317021e`, `.github` `8e354b3` (pushed) |
 
 ## Waiting — and on whom
 
