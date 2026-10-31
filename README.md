@@ -24,4 +24,5 @@ whom, and the rules.
 | [orgs/](orgs) | each org's landing (`.github/profile/README.md`) |
 | [BRANDING.md](BRANDING.md) | blockwhisper's official branding: the mark, files, colour, type and name |
 | [logos/](logos) | the five organizations' logos: blockwhisper's own (full logo and mark, PNG + SVG), chatter3's silver-gold coin, and the others as on GitHub |
+| [screenshots/](screenshots) | the blockwhisper dapp, screen by screen: peer-to-peer files, cryptoSSH, smart accounts, stored whisper keys (the code itself is private until release) |
 | [icon/](icon) | chatter3's icon, transparent with a silver-gold edge, and the two scripts that made it |

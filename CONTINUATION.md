@@ -56,6 +56,7 @@ The estate around it:
 | orgmap | blockwhisper filed in `comm` with a role and description; 100 organizations, 4,990 repositories | `819e9c5` (pushed) |
 | blockwhisper | official branding (`BRANDING.md`, `logos/`), the five-org logo suite; the full logo set as the org avatar on 2026-10-30 | `317021e`, `.github` `8e354b3` (pushed) |
 | blockwhisper/blockwhisper (**private**, until release) | the code: whisper seal, cryptoSSH (pmVPN keyring v1 client) and a FireFTP-style peer-to-peer file dapp | `4f170d6` (pushed) |
+| blockchain.communication/screenshots | the dapp's screens and their walkthrough, published on the operator's instruction (2026-10-31); the code stays private | (this commit) |
 
 ## Waiting — and on whom
 
